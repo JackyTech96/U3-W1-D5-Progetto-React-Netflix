@@ -31,7 +31,7 @@ const NetflixNavbar = () => {
                 My List
               </Nav.Link>
             </Nav>
-            <div className="d-flex align-items-center">
+            <div className="d-flex align-items-center nav-icons">
               <Search color="white" className="mx-3 fs-5" />
               <div id="kids" className="text-white fw-bold">
                 KIDS

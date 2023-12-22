@@ -1,6 +1,17 @@
+.nav-icons {
+  font-size: 0.8em;
+}
 .custom-dropdown-toggle {
   background-color: #221f1f;
   border-color: #6c757d;
+}
+.pointer-cursor {
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.pointer-cursor:hover {
+  transform: scale(1.1);
 }
 footer {
   color: #838383;
